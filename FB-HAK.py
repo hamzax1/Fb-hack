@@ -38,7 +38,7 @@ def banner():
     print " "
     runntxt(GL+"              Assalamu'@laikum. ^_^")
     runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
+    runntxt(WW+"     ....       MA.238AH")
     runntxt(GL+"                   BODO AMAT CUK")
     runntxt(GG+"     ..........     MANDI DULU SANA")
     runntxt(Y+"    ............       DILARANG CO*I")
@@ -174,7 +174,7 @@ def runn_noobs():
                   `.-::////::-.` \033[91;1m
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+             Powered by:\033[97m MA.238AH
       """
 
 
